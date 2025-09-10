@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88db015c-1af3-4ebb-aa6c-00d1874226f2" name="Changes" comment="create Java_OOP_Assignments project">
-      <change afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Sentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Word.java" afterDir="false" />
+    <list default="true" id="88db015c-1af3-4ebb-aa6c-00d1874226f2" name="Changes" comment="Created a package hierarchy and also created the Text.java, Word.java, Sentence.java classes in the task_1">
+      <change afterPath="$PROJECT_DIR$/src/com/joop/Main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Sentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Word.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,37 +30,63 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Cristal69"
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Cristal69/Java_OOP_Assignments.git&quot;,
+    &quot;accountId&quot;: &quot;23552e97-05c9-4190-9d25-a85bcc8d271f&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Cristal69/Java_OOP_Assignments.git",
-    "accountId": "23552e97-05c9-4190-9d25-a85bcc8d271f"
-  }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="32TfBUNO522n2AI2XC5zEu6Ucv1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "developer",
     "onboarding.tips.debug.path": "C:/Users/artem/IdeaProjects/Java_OOP_Assignments/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.joop.Main.Main" />
+      <module name="Java_OOP_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joop.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="88db015c-1af3-4ebb-aa6c-00d1874226f2" name="Changes" comment="" />
@@ -76,12 +103,36 @@
       <option name="project" value="LOCAL" />
       <updated>1757449487907</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created a package hierarchy and also created the Text.java, Word.java, Sentence.java classes in the task_1">
+      <option name="closed" value="true" />
+      <created>1757452326109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757452326109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="d981d4f5-1655-4519-8302-8f7ac5ee61b2" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="RECENT_FILTERS">
       <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="developer" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
         <entry key="User">
           <value>
             <list>
@@ -102,11 +153,30 @@
             <State />
           </value>
         </entry>
+        <entry key="d981d4f5-1655-4519-8302-8f7ac5ee61b2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create Java_OOP_Assignments project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create Java_OOP_Assignments project" />
+    <MESSAGE value="Created a package hierarchy and also created the Text.java, Word.java, Sentence.java classes in the task_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a package hierarchy and also created the Text.java, Word.java, Sentence.java classes in the task_1" />
   </component>
 </project>
