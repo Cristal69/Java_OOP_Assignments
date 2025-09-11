@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88db015c-1af3-4ebb-aa6c-00d1874226f2" name="Changes" comment="bug fix">
+    <list default="true" id="88db015c-1af3-4ebb-aa6c-00d1874226f2" name="Changes" comment="add to all classes equals and hashCode">
+      <change afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_2/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_2/Wheel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/joop/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Sentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Word.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757616223665</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add to all classes equals and hashCode">
+      <option name="closed" value="true" />
+      <created>1757618663311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757618663311</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +231,7 @@
     <MESSAGE value="Created a package hierarchy and also created the Text.java, Word.java, Sentence.java classes in the task_1" />
     <MESSAGE value="finished the task_1" />
     <MESSAGE value="bug fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
+    <MESSAGE value="add to all classes equals and hashCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="add to all classes equals and hashCode" />
   </component>
 </project>
