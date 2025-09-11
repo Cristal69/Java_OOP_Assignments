@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88db015c-1af3-4ebb-aa6c-00d1874226f2" name="Changes" comment="finished the task_1">
+    <list default="true" id="88db015c-1af3-4ebb-aa6c-00d1874226f2" name="Changes" comment="bug fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/joop/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Sentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Word.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +37,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Cristal69/Java_OOP_Assignments.git&quot;,
@@ -53,16 +57,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "developer",
-    "onboarding.tips.debug.path": "C:/Users/artem/IdeaProjects/Java_OOP_Assignments/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;developer&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/artem/IdeaProjects/Java_OOP_Assignments/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.joop.Main.Main" />
@@ -115,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757532381385</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bug fix">
+      <option name="closed" value="true" />
+      <created>1757616223665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757616223665</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +181,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="155" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="154" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="d981d4f5-1655-4519-8302-8f7ac5ee61b2">
@@ -204,6 +223,7 @@
     <MESSAGE value="create Java_OOP_Assignments project" />
     <MESSAGE value="Created a package hierarchy and also created the Text.java, Word.java, Sentence.java classes in the task_1" />
     <MESSAGE value="finished the task_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished the task_1" />
+    <MESSAGE value="bug fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
   </component>
 </project>
