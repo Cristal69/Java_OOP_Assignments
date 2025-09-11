@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Sentence {
-    private List<Word> words = new ArrayList<>();
+    private final List<Word> words = new ArrayList<>();
 
     public void addWord(Word word){ words.add(word); }
 

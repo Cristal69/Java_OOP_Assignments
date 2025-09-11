@@ -1,7 +1,7 @@
 package com.joop.option_A.task_1;
 
 public class Word {
-    private String word;
+    private final String word;
 
     public Word(String word) { this.word = word; }
 

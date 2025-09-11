@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88db015c-1af3-4ebb-aa6c-00d1874226f2" name="Changes" comment="Created a package hierarchy and also created the Text.java, Word.java, Sentence.java classes in the task_1">
-      <change afterPath="$PROJECT_DIR$/src/com/joop/Main/Main.java" afterDir="false" />
+    <list default="true" id="88db015c-1af3-4ebb-aa6c-00d1874226f2" name="Changes" comment="finished the task_1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Sentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/joop/option_A/task_1/Word.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757452326109</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished the task_1">
+      <option name="closed" value="true" />
+      <created>1757532381385</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757532381385</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +132,21 @@
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="developer" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Java_OOP_Assignments/developer" />
                 </option>
               </RecentGroup>
             </list>
@@ -158,6 +177,13 @@
             <State>
               <option name="FILTERS">
                 <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="developer" />
+                      </list>
+                    </value>
+                  </entry>
                   <entry key="roots">
                     <value>
                       <list>
@@ -177,6 +203,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create Java_OOP_Assignments project" />
     <MESSAGE value="Created a package hierarchy and also created the Text.java, Word.java, Sentence.java classes in the task_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a package hierarchy and also created the Text.java, Word.java, Sentence.java classes in the task_1" />
+    <MESSAGE value="finished the task_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the task_1" />
   </component>
 </project>

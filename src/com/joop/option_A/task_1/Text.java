@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Text {
-    private String title;
-    private List<Sentence> sentenceList = new ArrayList<>();
+    private final String title;
+    private final List<Sentence> sentenceList = new ArrayList<>();
 
     public Text(String title) { this.title = title; }
     public void addSentence(Sentence sentence){ sentenceList.add(sentence); }
