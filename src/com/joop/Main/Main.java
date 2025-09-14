@@ -4,12 +4,16 @@ import com.joop.option_A.task_1.*;
 import com.joop.option_A.task_2.Car;
 import com.joop.option_A.task_2.Engine;
 import com.joop.option_A.task_2.Wheel;
+import com.joop.option_A.task_3.AircraftEngine;
+import com.joop.option_A.task_3.LandingGear;
 
 import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         //Task_1 -------------------------------------------------------------------------------------------------------
+/*
+        System.out.println("-----------------------------------------------------------------------------------------");
         Word w1 = new Word("Hello");
         Word w2 = new Word("world");
 
@@ -23,6 +27,7 @@ public class Main {
         text.printTitle();
         text.printText();
         //Task_2 -------------------------------------------------------------------------------------------------------
+        System.out.println("-----------------------------------------------------------------------------------------");
         Engine engine = new Engine();
         engine.setNumberOilLevel(3.5F);
         engine.OilLevel();
@@ -41,6 +46,13 @@ public class Main {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+ */
         //Task_3 -------------------------------------------------------------------------------------------------------
+        System.out.println("-----------------------------------------------------------------------------------------");
+        AircraftEngine aircraftEngine = new AircraftEngine();
+        aircraftEngine.engineConditionCheck();
+        aircraftEngine.aviationFuelCheck();
+        LandingGear landingGear = new LandingGear();
+        landingGear.checkOfTheLandingGearCondition();
     }
 }
